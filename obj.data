@@ -1,0 +1,5 @@
+classes=1
+train=/content/OD-dataset/train
+valid=/content/OD-dataset/test
+names=/content/obj.names
+backup=https://github.com/BattinaNandini/OD-dataset.git
